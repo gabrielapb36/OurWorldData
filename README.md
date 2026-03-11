@@ -1,5 +1,3 @@
-# Exploratory Data Analysis
-
 This repository contains exploratory data analysis using publicly available datasets.
 
 Topics analyzed include:
